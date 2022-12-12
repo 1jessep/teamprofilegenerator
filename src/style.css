@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-between;
+   align-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+header {justify-content: center;}
+
+.container {
+    display: inline-block;
+    border-color: teal;
+    margin: 40px;
+    border-style:ridge;
+    flex-wrap: wrap;
+    padding: 30px;  
+}
+
+* {box-sizing: border-box;}
