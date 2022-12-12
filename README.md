@@ -1,5 +1,16 @@
 
   # Jessep's Team Profile Generator
+  
+  VIDEO WALKTHROUGH LINK:
+  https://drive.google.com/file/d/14vmQKspFOkWx3PQxKjv8eZuy6T-jGKyj/view
+  
+  
+  SCREENSHOTS:  
+
+![team profile generator](https://user-images.githubusercontent.com/110129027/207145573-b4c3b44f-8cf8-48ab-a7a8-b36ca2e98992.png)
+
+  ![tests](https://user-images.githubusercontent.com/110129027/207145597-b427bb7f-30e2-4555-861e-e76b85bd8619.png)
+
 
   # Table of Contents
   1. [Project Title](#Title)
@@ -35,3 +46,5 @@
   # Questions
   If you have any further questions please email me at jessepstynchcomb@gmail.com or reach out to me on github at 1jessep.
   
+
+
