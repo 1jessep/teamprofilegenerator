@@ -2,7 +2,7 @@
   # Jessep's Team Profile Generator
   
   VIDEO WALKTHROUGH LINK:
- https://app.screencastify.com/manage/videos/T0G0JzEfuq21kGsKWlEv
+https://app.screencastify.com/manage/videos/T0G0JzEfuq21kGsKWlEv
   
   
   SCREENSHOTS:  
